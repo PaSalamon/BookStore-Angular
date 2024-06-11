@@ -5,18 +5,15 @@ Author: Paweł Salamon
 1. Install dependencies
    
    ```
-   Node.js https://nodejs.org/en (using v20.14.0)
-   MongoDB https://www.mongodb.com/try/download/community (using v7.0.11) be sure to install MongoDBCompass
+   Node.js          https://nodejs.org/en (using v20.14.0)
+   MongoDB          https://www.mongodb.com/try/download/community (using v7.0.11) be sure to install MongoDBCompass
+   VisualStudioCode https://code.visualstudio.com/download (using v1.90)
    ```
 
 2. Run MongoDBCompass
+
+3. Run VisualStudioCode and open BookStore-Angular then open terminal
    
-3. Navigate to the project directory:
-
-   ```
-   cd BookStore-Angular
-   ```
-
 4. Navigate to the backend directory:
 
    ```

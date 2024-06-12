@@ -66,7 +66,8 @@ export class BookstoreComponent {
 
   addBook() {
     if(this.title == '' || this.author == '' || this.genre == '' || this.price == 0 || this.price == null){
-      alert('Please fill all values')
+      alert('Please fill all values');
+      return
     }
 
     this.book.title = this.title;
